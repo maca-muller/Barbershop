@@ -1,0 +1,16 @@
+body{
+	font-family: $roboto;
+}
+
+a{
+	color: $ruddy-pink;
+
+	&:hover{
+	color: $eerie-black;
+	text-decoration: none;
+	}
+}
+
+.rounded-corners{
+	border-radius: $rounded;
+}
